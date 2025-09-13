@@ -1,0 +1,6 @@
+p         // Print initial profile
+m 0.1     // Move forward slightly
+s 1.1 0.8 // Scale slightly
+p         // Print scaled profile
+m 0.2     // Move forward more
+p         // Print final profile

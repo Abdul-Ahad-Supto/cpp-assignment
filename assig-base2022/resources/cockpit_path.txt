@@ -1,0 +1,9 @@
+// ========== cockpit_path.txt ==========
+// Path commands for cockpit extrusion  
+p         // Print initial profile
+m 0.5     // Move forward
+s 0.9 1.2 // Scale for curved canopy
+p         // Print middle profile
+m 1.0     // Move forward
+s 0.8 0.8 // Scale smaller
+p         // Print final profile
