@@ -1,2 +1,0 @@
-    <ClCompile Include="objects-student\Composite1.cpp" /> 
-    <ClCompile Include="objects-student\Composite2.cpp" /> 

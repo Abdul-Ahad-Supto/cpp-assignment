@@ -1,5 +1,3 @@
-// ========== exhaust_profile.txt ==========
-// Profile for exhaust pipes (circular cross-section)
 0.3, 0.0
 0.21, 0.21
 0.0, 0.3

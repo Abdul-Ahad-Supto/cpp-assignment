@@ -1,2 +1,0 @@
-@echo off 
-powershell -Command "$content = Get-Content 'assig2.vcxproj'; $content = $content -replace 'vertex.cpp', 'vertex.cpp^>`r`n    ^<ClCompile Include=`"objects-student\Composite1.cpp`" /^>`r`n    ^<ClCompile Include=`"objects-student\Composite2.cpp`" /'; $content = $content -replace 'vertex.h', 'vertex.h^>`r`n    ^<ClInclude Include=`"objects-student\Composite1.h`" /^>`r`n    ^<ClInclude Include=`"objects-student\Composite2.h`" /'; Set-Content 'assig2.vcxproj' $content" 

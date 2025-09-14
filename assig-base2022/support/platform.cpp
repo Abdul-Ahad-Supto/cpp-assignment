@@ -121,7 +121,7 @@ string pathToResourceDirectory()
 void platformInitialise(void)
 {
     // start the sound engine with default parameters
-    // irrkEngine = nullptr; // Sound disabled
+    irrkEngine = irrklang::createIrrKlangDevice();
 } 
 
 
