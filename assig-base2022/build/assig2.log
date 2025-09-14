@@ -1,0 +1,507 @@
+﻿  prefix.cpp
+  main.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/main.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/main.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\main.cpp(584,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/main.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\main.cpp(597,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/main.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\main.cpp(802,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/basicsource/main.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\main.cpp(803,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/basicsource/main.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\main.cpp(851,32): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/basicsource/main.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\main.cpp(852,32): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/basicsource/main.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\main.cpp(875,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/basicsource/main.cpp')
+  
+  scene.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\scene.cpp(108,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\scene.cpp(108,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\scene.cpp(108,20): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\scene.cpp(109,38): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\scene.cpp(109,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\scene.cpp(109,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\scene.cpp(111,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\scene.cpp(115,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\scene.cpp(115,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\scene.cpp(115,20): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\scene.cpp(116,38): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\scene.cpp(116,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\scene.cpp(116,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\scene.cpp(118,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/scene.cpp')
+  
+  utility.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/utility.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/utility.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\utility.cpp(44,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/basicsource/utility.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\utility.cpp(58,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/basicsource/utility.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\utility.cpp(457,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/basicsource/utility.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\utility.cpp(465,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/basicsource/utility.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\utility.cpp(471,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/basicsource/utility.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\utility.cpp(505,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/basicsource/utility.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\utility.cpp(580,24): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+  (compiling source file '/basicsource/utility.cpp')
+  
+  billboard.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/billboard.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/billboard.cpp')
+  
+  cube.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/cube.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/cube.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\cube.cpp(39,23): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/cube.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\cube.cpp(39,18): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/cube.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\cube.cpp(39,12): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/cube.cpp')
+  
+  cylinder.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/cylinder.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/cylinder.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\cylinder.cpp(81,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/cylinder.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\cylinder.cpp(89,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/objects-standard/cylinder.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\cylinder.cpp(93,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/objects-standard/cylinder.cpp')
+  
+  disc.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/disc.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/disc.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\disc.cpp(73,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/disc.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\disc.cpp(91,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/disc.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\disc.cpp(94,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/objects-standard/disc.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\disc.cpp(94,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/objects-standard/disc.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\disc.cpp(106,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/disc.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\disc.cpp(112,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/objects-standard/disc.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\disc.cpp(112,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/objects-standard/disc.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\disc.cpp(114,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/objects-standard/disc.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\disc.cpp(114,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/objects-standard/disc.cpp')
+  
+  extrusion.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/extrusion.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/extrusion.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\extrusion.cpp(90,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/extrusion.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\extrusion.cpp(90,18): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/extrusion.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\extrusion.cpp(90,12): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/extrusion.cpp')
+  
+  particle.cpp
+  particlesys.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/particlesys.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/particlesys.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\particlesys.cpp(54,12): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/particlesys.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\particlesys.cpp(55,17): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/particlesys.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\particlesys.cpp(56,17): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/particlesys.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\particlesys.cpp(58,16): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/particlesys.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\particlesys.cpp(59,16): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/particlesys.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\particlesys.cpp(60,18): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/particlesys.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\particlesys.cpp(61,18): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/particlesys.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\particlesys.cpp(160,24): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  (compiling source file '/objects-standard/particlesys.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\particlesys.cpp(251,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/particlesys.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\particlesys.cpp(261,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/particlesys.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\particlesys.cpp(263,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/particlesys.cpp')
+  
+  plane.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/plane.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/plane.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\plane.cpp(63,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  (compiling source file '/objects-standard/plane.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\plane.cpp(66,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  (compiling source file '/objects-standard/plane.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\plane.cpp(66,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  (compiling source file '/objects-standard/plane.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\plane.cpp(69,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  (compiling source file '/objects-standard/plane.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\plane.cpp(74,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  (compiling source file '/objects-standard/plane.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\plane.cpp(80,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  (compiling source file '/objects-standard/plane.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\plane.cpp(83,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  (compiling source file '/objects-standard/plane.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\plane.cpp(83,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  (compiling source file '/objects-standard/plane.cpp')
+  
+  sphere.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/sphere.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/sphere.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\sphere.cpp(55,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/sphere.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\sphere.cpp(56,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/sphere.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\sphere.cpp(64,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/sphere.cpp')
+  
+  sweep.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/sweep.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/sweep.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\sweep.cpp(90,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/sweep.cpp')
+  
+  terrain.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/terrain.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/terrain.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\terrain.cpp(119,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/terrain.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\terrain.cpp(120,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/objects-standard/terrain.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\terrain.cpp(120,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/objects-standard/terrain.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\terrain.cpp(171,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/objects-standard/terrain.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\terrain.cpp(171,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/objects-standard/terrain.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\terrain.cpp(174,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/objects-standard/terrain.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\terrain.cpp(174,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/objects-standard/terrain.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\terrain.cpp(193,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/terrain.cpp')
+  
+  torus.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/torus.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/torus.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\torus.cpp(53,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/torus.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\torus.cpp(54,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/torus.cpp')
+  
+  tsphere.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/tsphere.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/objects-standard/tsphere.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\tsphere.cpp(84,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/tsphere.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\tsphere.cpp(88,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/tsphere.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\tsphere.cpp(104,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/objects-standard/tsphere.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\tsphere.cpp(118,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/objects-standard/tsphere.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\tsphere.cpp(118,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/objects-standard/tsphere.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\tsphere.cpp(121,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/objects-standard/tsphere.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\objects-standard\tsphere.cpp(121,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/objects-standard/tsphere.cpp')
+  
+  camera.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/support/camera.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/support/camera.cpp')
+  
+  face.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/support/face.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/support/face.cpp')
+  
+  fog.cpp
+  light.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/support/light.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/support/light.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\light.cpp(208,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  (compiling source file '/support/light.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\light.cpp(208,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  (compiling source file '/support/light.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\light.cpp(208,13): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  (compiling source file '/support/light.cpp')
+  
+  Generating Code...
+  Compiling...
+  matrix.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/support/matrix.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/support/matrix.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\matrix.cpp(274,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/support/matrix.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\matrix.cpp(282,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/support/matrix.cpp')
+  
+  object3d.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/support/object3d.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/support/object3d.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\object3d.cpp(229,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/support/object3d.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\object3d.cpp(229,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/support/object3d.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\object3d.cpp(229,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/support/object3d.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\object3d.cpp(440,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/support/object3d.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\object3d.cpp(439,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/support/object3d.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\object3d.cpp(438,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/support/object3d.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\object3d.cpp(782,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/support/object3d.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\object3d.cpp(820,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  (compiling source file '/support/object3d.cpp')
+  
+  platform.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/support/platform.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/support/platform.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\platform.cpp(248,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/support/platform.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\platform.cpp(393,54): warning C4244: 'argument': conversion from 'double' to 'irrklang::ik_u32', possible loss of data
+  (compiling source file '/support/platform.cpp')
+  
+  skybox.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/support/skybox.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/support/skybox.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\skybox.cpp(87,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/support/skybox.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\support\skybox.cpp(88,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/support/skybox.cpp')
+  
+  snd.cpp
+  texture.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/support/texture.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/support/texture.cpp')
+  
+  vectr.cpp
+  vertex.cpp
+  viewfrustum.cpp
+  fragmentshader.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/shaders/fragmentshader.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/shaders/fragmentshader.cpp')
+  
+  Noise3DTexture.cpp
+  shaderprogram.cpp
+  vertexshader.cpp
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(25,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/shaders/vertexshader.cpp')
+  
+C:\Users\USER\Documents\GitHub\cpp-assignment\assig-base2022\basicsource\constants.h(26,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '/shaders/vertexshader.cpp')
+  
+  Generating Code...
+scene.obj : error LNK2001: unresolved external symbol "public: __thiscall Composite1::Composite1(void)" (??0Composite1@@QAE@XZ)
+scene.obj : error LNK2001: unresolved external symbol "public: void __thiscall Composite1::animateWheelsSpin(float)" (?animateWheelsSpin@Composite1@@QAEXM@Z)
+scene.obj : error LNK2001: unresolved external symbol "public: void __thiscall Composite1::animateDoorsOpen(float)" (?animateDoorsOpen@Composite1@@QAEXM@Z)
+scene.obj : error LNK2001: unresolved external symbol "public: void __thiscall Composite1::animateCarMovement(float)" (?animateCarMovement@Composite1@@QAEXM@Z)
+scene.obj : error LNK2001: unresolved external symbol "public: void __thiscall Composite1::resetAnimations(void)" (?resetAnimations@Composite1@@QAEXXZ)
+scene.obj : error LNK2001: unresolved external symbol "public: __thiscall Composite2::Composite2(void)" (??0Composite2@@QAE@XZ)
+scene.obj : error LNK2001: unresolved external symbol "public: void __thiscall Composite2::animatePropellerSpin(float)" (?animatePropellerSpin@Composite2@@QAEXM@Z)
+scene.obj : error LNK2001: unresolved external symbol "public: void __thiscall Composite2::animateLandingGearRetract(float)" (?animateLandingGearRetract@Composite2@@QAEXM@Z)
+scene.obj : error LNK2001: unresolved external symbol "public: void __thiscall Composite2::animateLightPattern(float)" (?animateLightPattern@Composite2@@QAEXM@Z)
+scene.obj : error LNK2001: unresolved external symbol "public: void __thiscall Composite2::resetAnimations(void)" (?resetAnimations@Composite2@@QAEXXZ)
+build\assig2.exe : fatal error LNK1120: 10 unresolved externals

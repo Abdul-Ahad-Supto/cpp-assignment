@@ -69,7 +69,7 @@ public:
     // Animation methods - independently animatable components
     void animatePropellerSpin(float deltaTime);      // Animate propeller spinning
     void animateLandingGearRetract(float deltaTime); // Animate landing gear retracting
-    void animateFlightPattern(float deltaTime);      // Animate plane flying in pattern
+    void animateLightPattern(float deltaTime);      // Animate plane flying in pattern
     void resetAnimations();                          // Reset all animations
 };
 

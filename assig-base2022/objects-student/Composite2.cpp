@@ -259,7 +259,7 @@ void Composite2::animateLandingGearRetract(float deltaTime)
 // -----------------------------------------------------------------------------------------
 // Animation Method 3: Animate plane flying in pattern (Independent animation)
 // -----------------------------------------------------------------------------------------
-void Composite2::animateFlightPattern(float deltaTime)
+void Composite2::animateLightPattern(float deltaTime)
 {
     // Update flight angle for figure-8 pattern
     flightAngle += deltaTime * 30.0f; // 30 degrees per second
